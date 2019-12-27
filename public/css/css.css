@@ -1,0 +1,130 @@
+#my-cr,#my-crrr{
+	margin-top: 5%;
+}
+.bio-profs{
+	background: whitesmoke;
+	height: 200px;
+	width: 250px;
+	float: right;
+	position: relative;
+	top: -160px;
+	right: 30px;
+  }
+#dow-eva{
+	width: 74%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#dow,#eva{
+	width: 45%;
+}
+#eva{
+	text-align: center;
+	position: relative;
+	top: -7px;
+}
+
+#ul-dow{
+	position: relative;
+	right: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.list-unstyledd{
+	padding-left: 0;
+  list-style: none;
+}
+#btn-cocc img,#btn-coc  img{
+	position: relative;
+	right: 5px;
+	top: -2px;
+}
+#btn-coc{
+  background: #004466;
+  color: white;
+}
+#btn-cocc{
+	background: #004466;
+	color: white;
+  }
+#btn-coc:focus,#btn-cocc:focus{
+  background: #3490dc;
+}
+#btn-coc:hover,#btn-cocc:hover{
+  background: #3490dc;
+}
+
+footer{
+	margin-top: 5% !important;
+}
+
+
+
+.act{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.actt{
+	font-size: 18px;
+	width: 32%;
+}
+#btn-coc{
+  background: #004466;
+  color: white;
+  border:none;
+}
+
+#btn-coc:focus,#btn-cocc:focus,#voir-cours:focus,#voir-courss:focus{
+  background: #3490dc;
+}
+#btn-coc:hover,#btn-cocc:hover,#voir-cours:hover,#voir-courss:hover{
+  background: #3490dc;
+}
+
+#btn-cocc{
+	background: green;
+	color: white;
+	border:none;
+  }
+  
+
+#voir-courss{
+  background: #004466;
+  outline: none;
+  border: none;
+}
+#co-av p{
+	font-size: 18px;
+}
+#btn-rd{
+	border: 1px solid #004466;
+	color: #004466;
+	font-weight: bold;
+  border-radius: 40px;
+  background: white;
+}
+#btn-rd:focus{
+	border: none;
+}
+#head{
+	background: #004466;
+	color: white;
+}
+li{
+
+	padding-left: 0;
+  list-style: none;
+}
+#my-crrr ul li{
+
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 20px;
+}
+#my-crrr ul li a{
+	color: #004466;
+
+}

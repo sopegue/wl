@@ -1,0 +1,5 @@
+        @include('head')
+        @include ('headersigned')
+        @include('laune')
+        @include('contact')
+        @include('footer')
